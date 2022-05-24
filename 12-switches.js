@@ -39,8 +39,7 @@ if (answer === "A" || answer === "B") {
     console.log("Must be a Muggle.")
 }
 
-let answer = "B"
-
+answer = "B"
 
 switch (answer) {
     case "A":
